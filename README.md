@@ -1,6 +1,8 @@
 # Stopwatch
 
-## This is the first time I made anything involving a counter / clock
+###### April 2020
+
+_This is the first time I made anything involving a counter / clock_
 
 ### Things I learnt / experimented with in this project:
 
