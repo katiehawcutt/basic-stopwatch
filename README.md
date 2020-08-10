@@ -1,5 +1,7 @@
 # Stopwatch
 
+![Stopwatch](./Images/stopwatch-screenshot.PNG)
+
 ###### April 2020
 
 _This is the first time I made anything involving a counter / clock_
